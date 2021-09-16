@@ -1,0 +1,142 @@
+.A {
+  margin: 40px 0;
+}
+.B {
+  text-align: center;
+  color: #04aa6d;
+  font-size: 32px;
+}
+.C {
+  text-align: center;
+  font-size: 18px;
+}
+.D {
+  padding: 80px 0px;
+  width: 100%;
+  background-color: #282a35;
+  color: white;
+  margin: 16px 0;
+}
+.E {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.F {
+  font-size: 100px;
+}
+.G {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.H {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.I {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: white;
+  color: black;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+}
+.J {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.K {
+  padding: 80px 0px;
+  width: 100%;
+  background-color: #d9eee1;
+  color: black;
+  margin: 16px 0;
+}
+.PP {
+  clear: both;
+}
+.L {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.M {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.N {
+  font-size: 100px;
+}
+.O {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.P {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  -align: center;
+  cursor: pointer;
+  -space: nowrap;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.Q {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  -align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+}
+.R {
+  clear: both;
+}
+.S {
+  text-align: center;
+  background-color: #282a35;
+  color: white;
+  padding: 40px 0;
+}
